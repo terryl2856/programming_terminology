@@ -5,24 +5,24 @@
 
 **Instructions:** Use the word bank to match the vocabulary words with the appropriate number in the above code segment. 
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
-11.
-12.
+1.iteration
+2. casting
+3.boolean operator
+4.selection
+5. comparison operatior
+6.annotation 
+7. assignment operator
+8.list
+9.arithmetic operator
+10. variable
+11.string
+12.string concation
 
 **Word Bank**
 - variable
 - boolean operator
 - string
-- comparison operator
+- comparison operatior
 - casting
 - string concation
 - assignment operator
